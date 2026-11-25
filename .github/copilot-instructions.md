@@ -1,7 +1,7 @@
-# Library Catalogue Workspace
+# Find That Book Workspace
 
-- Project: dependency-free HTML, CSS, and JavaScript library catalogue.
-- Features: search by title or author, filter by availability, and toggle loan status.
+- Project: dependency-free HTML, CSS, and JavaScript book discovery catalogue.
+- Features: search 50 popular books by title or author and open a book for details.
 - Keep the UI responsive and accessible.
-- Loan state is stored in browser local storage.
-- Prefer local component data unless a backend is explicitly requested.
+- Display descriptions, publication year, genre, and a Goodreads rating only in the selected-book detail view.
+- There is no loan or account system.
